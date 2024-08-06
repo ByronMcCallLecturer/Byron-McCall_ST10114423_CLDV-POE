@@ -6,6 +6,8 @@ namespace WebApplication1
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+            //testing
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
